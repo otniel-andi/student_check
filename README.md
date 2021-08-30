@@ -4,3 +4,4 @@ Hallo semuanya, ini adalah repositori untuk mengecek kelengkapan nama mahasiswa 
 Silakan masukkan nama dan NIM kalian di bawah ini.  Dalam pengisian diharapkan urutannya sesuai dengan NIM mahasiswa :
 - 19507334027 - Abdul Mujiburrohman Luthfi
 - 19507334005 - Nur Laily Fajriyah
+- 19507334007 - Aldiasa Pangestu Aji
